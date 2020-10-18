@@ -1,0 +1,7 @@
+Images : CRUD Screen short
+
+CRUDAppDB : Databse name and script file
+
+CRUDApi : Web Api. Url:https://localhost:44360/api/Employee
+
+ClientApp : Ng module. Url:http://localhost:4200/
